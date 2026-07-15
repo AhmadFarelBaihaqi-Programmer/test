@@ -1,2 +1,2 @@
-belajar github untuk pertama kalinya
-dan memahami cara kerja github
+- belajar github untuk pertama kalinya
+- memahami cara kerja github
